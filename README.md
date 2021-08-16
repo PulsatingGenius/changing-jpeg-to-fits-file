@@ -1,1 +1,1 @@
-# changing-jpeg-to-fits-file
+# converting-jpeg-to-fits-file
